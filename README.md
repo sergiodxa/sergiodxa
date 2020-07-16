@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! I'm Sergio
+
+Frontend Lead and Technical Writer.
+
+Currently coding @able_co.
+
+Previously @prmkr, @platzi (YC W15) and @vercel.
+
+Organizer of @techtalks_pe.
+
+Repos are my own.
 
 <!--
 **sergiodxa/sergiodxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
