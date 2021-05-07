@@ -1,10 +1,10 @@
 ### Hi! I'm Sergio
 
-Frontend Lead and Technical Writer.
+Web Developer
 
-Currently coding @able_co.
+Currently coding @silverback-ventures
 
-Previously @prmkr, @platzi (YC W15) and @vercel.
+Previously @prmkr, @platzi (YC W15), @vercel, and @able_co.
 
 Organizer of @techtalks_pe.
 
