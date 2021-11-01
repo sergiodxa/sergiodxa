@@ -2,7 +2,7 @@
 
 Web Developer
 
-Currently coding @silverback-ventures
+Currently coding Daffy.org
 
 Previously @prmkr, @platzi (YC W15), @vercel, and @able_co.
 
